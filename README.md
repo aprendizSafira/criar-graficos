@@ -11,3 +11,13 @@ Entra no site www.chartjs.org/samples
 Onde fica os exemplos como 'pie' = 'pizza';
 Então você clica no gráfico desejado e depois em 'Exibir codigo fonte da página'.
 No codigo fonte da página mostra como funciona o gráfico.
+
+-Como fazer dowload da biblioteca chartjs?
+
+Copie tudo que esta nesse link:
+
+https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.0/Chart.min.js
+
+E crie um arquivo no seu projeto chamado: Chart.min.js
+
+E cole TUDO nesse arquivo.
